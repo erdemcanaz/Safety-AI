@@ -4,5 +4,6 @@ yolo_models/*
 output_video.mp4
 utils/training_data*
 
-
 !.gitkeep
+!yolo_models/forklift_detector.pt
+!yolo_models/hard_hat_detector.pt
