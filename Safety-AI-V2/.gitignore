@@ -1,0 +1,8 @@
+# Ignore everything in the below directories
+json_files/*
+yolo_models/*
+output_video.mp4
+utils/training_data*
+
+
+!.gitkeep

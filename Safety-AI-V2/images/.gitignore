@@ -1,0 +1,5 @@
+other/*
+src/backgrounds/*
+src/icons/*
+
+!.gitkeep
