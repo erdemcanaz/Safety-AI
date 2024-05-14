@@ -1,0 +1,13 @@
+{
+    "users": [
+        {
+            "username": "FOL_admin",
+            "password_hash": "",
+            "permissions": {
+                "text": true,
+                "image": true,
+                "report": true
+            }
+        }
+    ]
+}
